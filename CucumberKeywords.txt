@@ -28,3 +28,4 @@ Background:
       
     When User enters username as " " and password as "admin123"
     Then User should be able to see a message "Required1" below Username
+    Add one more scenario for loginpage
